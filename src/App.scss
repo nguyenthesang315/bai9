@@ -1,0 +1,11 @@
+.App{
+    background-color: rgb(245, 245, 245);
+    &__cover{
+        width: 100%;
+        &-Infor{
+            width: 100%;
+            margin: 0 auto;
+        }
+    
+    }
+}
